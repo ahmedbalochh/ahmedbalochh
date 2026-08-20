@@ -17,6 +17,13 @@
 
 🌱 Exploring applied ML for finance (signal generation) and defense/ops visualization use cases
 
+
+
+
+
+
+
+
 Email me at: **ahm3dsaj1d@gmail.com**
 
 
