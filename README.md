@@ -2,6 +2,8 @@
 
 🧠 **About Me**
 
+**Email**:ahm3dsaj1d@gmail.com
+
 
 🔭 Currently building ClaimIQ — an AI system that ingests construction contracts and supporting documents to auto-validate and generate claims (in production use with a major construction contractor)
 
@@ -17,12 +19,6 @@
 
 🌱 Exploring applied ML for finance (signal generation) and defense/ops visualization use cases
 
-
-
-
-
-
-**Email**:ahm3dsaj1d@gmail.com
 
 
 👯 Lead a small team (2 devs) delivering end-to-end automation builds for clients, dev to deployment
