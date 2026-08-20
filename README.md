@@ -17,6 +17,8 @@
 
 🌱 Exploring applied ML for finance (signal generation) and defense/ops visualization use cases
 
+Email me at: **ahm3dsaj1d@gmail.com**
+
 
 👯 Lead a small team (2 devs) delivering end-to-end automation builds for clients, dev to deployment
 
