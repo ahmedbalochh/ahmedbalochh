@@ -22,9 +22,7 @@
 
 
 
-
-
-Email me at: **ahm3dsaj1d@gmail.com**
+**Email**:ahm3dsaj1d@gmail.com
 
 
 👯 Lead a small team (2 devs) delivering end-to-end automation builds for clients, dev to deployment
